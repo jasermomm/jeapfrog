@@ -1,0 +1,29 @@
+# Windows builds and IDE files
+/Jeapfrog.exe
+[Bb]in/
+[Oo]bj/
+.vs/
+*.pdb
+*.user
+
+# Local emulator data, downloads, and logs
+/Engine/
+/Downloads/
+*.exe
+*.dll
+*.bin
+*.rom
+*.lfp
+*.lf2
+*.zip
+*.7z
+*.tar
+*.sav
+*.log
+*.partial
+
+# Python and Windows
+__pycache__/
+*.py[cod]
+Thumbs.db
+Desktop.ini
